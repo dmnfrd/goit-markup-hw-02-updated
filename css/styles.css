@@ -158,11 +158,10 @@ body {
     line-height: 1.07;
     letter-spacing: var(--two);
     color: var(--white);  
-
 }
 
-
 .hero-button {
+    font-family: inherit;
     font-style: inherit;
     font-weight: var(--500);
     font-size: var(--16px);
@@ -329,6 +328,7 @@ body {
 
 
 .button.first {
+    font-family: inherit;
     font-style: inherit;
     font-weight: var(--500);
     font-size: var(--16px);
@@ -345,6 +345,7 @@ body {
 }
 
 .button {
+    font-family: inherit;
     font-style: inherit;
     font-weight: var(--500);
     font-size: var(--16px);
